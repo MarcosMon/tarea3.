@@ -1,41 +1,41 @@
 
-	body {
-		background-color: #FFF39B;
-		font-family: arial;
+body {
+	background-color: #FFF39B;
+	font-family: arial;
 		
 	}
-	img {
-		display: block;
-		margin: auto;
+ img {
+	display: block;
+	margin: auto;
 	}
-	.parrafo  {
-		color: #000000;
-		font-size: 17pt;
+.parrafo {
+	color: #000000;
+	font-size: 17pt;
 	}
-	h1 {
-		color: #990000;
-		background-color: #FC9804;
-		text-align: center;
+h1 {
+	color: #990000;
+	background-color: #FC9804;
+	text-align: center;
 	}
-	h2 {
-		color: #990000;
-		background-color: #FC9804;
-		text-align: center;
+h2 {
+	color: #990000;
+	background-color: #FC9804;
+	text-align: center;
 	}
-	h3 {
-		color: #990000;
-		background-color: #FC9804;
-		text-align: center;
+h3 {
+	color: #990000;
+	background-color: #FC9804;
+	text-align: center;
 	}
-	h4 {
-		color: #990000;
-		background-color: #FC9804;
+h4 {
+	color: #990000;
+	background-color: #FC9804;
 	}
-	a{ 
-		color:#FC9804; 
+a{ 
+	color:#FC9804; 
 	} 
-		a:hover{ 
-		color:#B31CFF; 
+	a:hover{ 
+	color:#B31CFF; 
 	} 
 	
 	#main-container{
