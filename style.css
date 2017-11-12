@@ -1,23 +1,30 @@
 
 	body {
-		background-color: #00898C;
-		font-family: arial;	
+		background-color: #FFF39B;
+		font-family: arial;
+		
 	}
 	img {
 		display: block;
 		margin: auto;
 	}
+	.parrafo  {
+		color: #000000;
+	}
 	h1 {
 		color: #990000;
 		background-color: #FC9804;
+		text-align: center;
 	}
 	h2 {
 		color: #990000;
 		background-color: #FC9804;
+		text-align: center;
 	}
 	h3 {
 		color: #990000;
 		background-color: #FC9804;
+		text-align: center;
 	}
 	h4 {
 		color: #990000;
@@ -27,16 +34,16 @@
 		color:#FC9804; 
 	} 
 		a:hover{ 
-		color:#FFCC66; 
+		color:#B31CFF; 
 	} 
 	
 	#main-container{
-	margin: 150px auto;
+	margin: 100px auto;
 	width: 800px;
 }
 
 table{
-	background-color: white;
+	background-color: #AEA300;
 	text-align: center;
 	width: 100%;
 }
@@ -47,8 +54,8 @@ th, td{
 
 thead{
 	background-color: #246355;
-	border-bottom: solid 5px #0F362D;
-	color: red;
+	border-bottom: solid 5px #FFC49B;
+	color: black;
 }
 
 tr:nth-child(even){
